@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view">
+    <sys_db_view action="INSERT_OR_UPDATE">
+        <description>Combining the Virtual Machine Instance [cmdb_ci_vm_instance] and computer [cmdb_ci_computer] so it's easy to see virtual machines and discovered OS altogether</description>
+        <label>Virtual Machine with OS Info</label>
+        <name>x_snc_sn_cloud_das_virtual_machine_with_os</name>
+        <plural>Virtual Machine with OS Info</plural>
+        <sys_class_name>sys_db_view</sys_class_name>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-07-29 02:51:55</sys_created_on>
+        <sys_id>7ad445d6db235f405aa9dc965e96194f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_sn_cloud_das_virtual_machine_with_os</sys_name>
+        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
+        <sys_update_name>sys_db_view_7ad445d6db235f405aa9dc965e96194f</sys_update_name>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-07-29 02:51:55</sys_updated_on>
+    </sys_db_view>
+</record_update>

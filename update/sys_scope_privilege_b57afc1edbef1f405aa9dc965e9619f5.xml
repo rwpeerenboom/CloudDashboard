@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-07-29 02:06:31</sys_created_on>
+        <sys_id>b57afc1edbef1f405aa9dc965e9619f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ScopedGlideAggregate</sys_name>
+        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
+        <sys_update_name>sys_scope_privilege_b57afc1edbef1f405aa9dc965e9619f5</sys_update_name>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-07-29 02:06:31</sys_updated_on>
+        <target_name>ScopedGlideAggregate</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>

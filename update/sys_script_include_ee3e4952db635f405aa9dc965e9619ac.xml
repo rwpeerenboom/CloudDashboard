@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_snc_sn_cloud_das.VMsWithOS</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description>Return an array of sys_id that contains VMs that have been discovered</description>
+        <name>VMsWithOS</name>
+        <script><![CDATA[function VMsWithOS() {
+	var vms = [];
+	
+	// Get a list of VMs that DO have OSes
+	var gr = new GlideRecord("cmdb_rel_ci");
+	gr.addQuery("type", "d93304fb0a0a0b78006081a72ef08444"); //Virtualized by::Virtualizes
+	gr.query();
+	while (gr.next()) {
+		vms.push(gr.child + '');
+	}
+
+	return vms;
+}]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-07-29 03:32:52</sys_created_on>
+        <sys_id>ee3e4952db635f405aa9dc965e9619ac</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>VMsWithOS</sys_name>
+        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
+        <sys_update_name>sys_script_include_ee3e4952db635f405aa9dc965e9619ac</sys_update_name>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-07-29 03:38:44</sys_updated_on>
+    </sys_script_include>
+</record_update>

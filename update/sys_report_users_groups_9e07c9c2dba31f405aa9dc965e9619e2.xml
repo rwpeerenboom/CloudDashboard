@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="EC2 VMs (On)">1a07c9c2dba31f405aa9dc965e9619e2</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-07-28 08:22:58</sys_created_on>
+        <sys_id>9e07c9c2dba31f405aa9dc965e9619e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1a07c9c2dba31f405aa9dc965e9619e2</sys_name>
+        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
+        <sys_update_name>sys_report_users_groups_9e07c9c2dba31f405aa9dc965e9619e2</sys_update_name>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-07-28 08:22:58</sys_updated_on>
+        <user_id display_value="">f615d7f4dbb1b200e99852f4ce961943</user_id>
+    </sys_report_users_groups>
+</record_update>

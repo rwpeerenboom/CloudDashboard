@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view_table">
+    <sys_db_view_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <left_join>false</left_join>
+        <order>300</order>
+        <sys_class_name>sys_db_view_table</sys_class_name>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-07-29 02:55:39</sys_created_on>
+        <sys_id>d585851adb235f405aa9dc965e9619ae</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>cmdb_ci_computer</sys_name>
+        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
+        <sys_update_name>sys_db_view_table_d585851adb235f405aa9dc965e9619ae</sys_update_name>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-07-29 03:19:15</sys_updated_on>
+        <table>cmdb_ci_computer</table>
+        <variable_prefix>os</variable_prefix>
+        <view display_value="x_snc_sn_cloud_das_virtual_machine_with_os">7ad445d6db235f405aa9dc965e96194f</view>
+        <where_clause>rel_parent = os_sys_id</where_clause>
+    </sys_db_view_table>
+</record_update>

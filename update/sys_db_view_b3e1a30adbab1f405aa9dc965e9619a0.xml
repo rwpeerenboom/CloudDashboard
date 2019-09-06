@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view">
+    <sys_db_view action="INSERT_OR_UPDATE">
+        <description>Combining the Virtual Machine Instance [cmdb_ci_vm_instance] and Datacenter [cmdb_ci_logical_datacenter] so it's easy to tell virtual machines by its type (AWS, Azure, VMware etc)</description>
+        <label>Virtual Machine Instance</label>
+        <name>x_snc_sn_cloud_das_virtual_machine_instances</name>
+        <plural>Virtual Machine Instances</plural>
+        <sys_class_name>sys_db_view</sys_class_name>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-07-28 19:42:21</sys_created_on>
+        <sys_id>b3e1a30adbab1f405aa9dc965e9619a0</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_snc_sn_cloud_das_virtual_machine_instances</sys_name>
+        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
+        <sys_update_name>sys_db_view_b3e1a30adbab1f405aa9dc965e9619a0</sys_update_name>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-07-29 00:06:10</sys_updated_on>
+    </sys_db_view>
+</record_update>

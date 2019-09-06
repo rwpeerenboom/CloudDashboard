@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="cmdb_ci_vm_instance" version="2" view="RPTac01854edb631f405aa9dc965e961931">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="cmdb_ci_vm_instance" element="NULL" name="cmdb_ci_vm_instance" parent="NULL" relationship="NULL" sys_domain="global" view="2de10c75dbf67b001cc8c245059619de">fc01854edb631f405aa9dc965e96197b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>aleck.lin</sys_created_by>
+            <sys_created_on>2018-07-28 07:56:39</sys_created_on>
+            <sys_id>b401854edb631f405aa9dc965e96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aleck.lin</sys_updated_by>
+            <sys_updated_on>2018-07-28 07:56:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>last_discovered</element>
+            <list_id display_value="cmdb_ci_vm_instance" element="NULL" name="cmdb_ci_vm_instance" parent="NULL" relationship="NULL" sys_domain="global" view="2de10c75dbf67b001cc8c245059619de">fc01854edb631f405aa9dc965e96197b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>aleck.lin</sys_created_by>
+            <sys_created_on>2018-07-28 07:56:39</sys_created_on>
+            <sys_id>3801854edb631f405aa9dc965e96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aleck.lin</sys_updated_by>
+            <sys_updated_on>2018-07-28 07:56:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="cmdb_ci_vm_instance" element="NULL" name="cmdb_ci_vm_instance" parent="NULL" relationship="NULL" sys_domain="global" view="2de10c75dbf67b001cc8c245059619de">fc01854edb631f405aa9dc965e96197b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>aleck.lin</sys_created_by>
+            <sys_created_on>2018-07-28 07:56:39</sys_created_on>
+            <sys_id>b801854edb631f405aa9dc965e96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aleck.lin</sys_updated_by>
+            <sys_updated_on>2018-07-28 07:56:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>cmdb_ci_vm_instance</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>aleck.lin</sys_created_by>
+            <sys_created_on>2018-07-28 07:56:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc01854edb631f405aa9dc965e96197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_ci_vm_instance</sys_name>
+            <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
+            <sys_update_name>sys_ui_list_cmdb_ci_vm_instance_RPTac01854edb631f405aa9dc965e961931</sys_update_name>
+            <sys_updated_by>aleck.lin</sys_updated_by>
+            <sys_updated_on>2018-07-28 07:56:39</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rptac01854edb631f405aa9dc965e961931" name="RPTac01854edb631f405aa9dc965e961931">2de10c75dbf67b001cc8c245059619de</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
